@@ -1,0 +1,104 @@
+Makanan|Dori Ramen|18000.000000|Reguler Ramen|Utama
+Makanan|Okina Dumpling Ramen|27000.000000|Reguler Ramen|Utama
+Makanan|Wonton Ramen|27000.000000|Reguler Ramen|Utama
+Makanan|Gyoza Ramen|27000.000000|Reguler Ramen|Utama
+Makanan|Tofu Ramen|29000.000000|Reguler Ramen|Utama
+Makanan|Enokitake Ramen|28000.000000|Reguler Ramen|Utama
+Makanan|Snow White Ramen|28000.000000|Reguler Ramen|Utama
+Makanan|Beef Enokitake Ramen|30000.000000|Reguler Ramen|Utama
+Makanan|Ekado Ramen|27000.000000|Reguler Ramen|Utama
+Makanan|Fishroll Ramen|26000.000000|Reguler Ramen|Utama
+Makanan|Chicken Lolipop Ramen|28000.000000|Reguler Ramen|Utama
+Makanan|Corn n Cheese Ramen|28000.000000|Reguler Ramen|Utama
+Makanan|Niwatori Ramen|30000.000000|Reguler Ramen|Utama
+Makanan|Karage Ramen|28000.000000|Reguler Ramen|Utama
+Makanan|Tebasaki Ramen|28000.000000|Reguler Ramen|Utama
+Makanan|Gyu Panko Ramen|28000.000000|Reguler Ramen|Utama
+Makanan|Teriyaki Ramen|28000.000000|Reguler Ramen|Utama
+Makanan|Beef Ramen|31000.000000|Reguler Ramen|Utama
+Makanan|Chicken Furai Ramen|28000.000000|Reguler Ramen|Utama
+Makanan|Tori Drum Ramen|29000.000000|Reguler Ramen|Utama
+Makanan|Eringi Ramen|28000.000000|Reguler Ramen|Utama
+Makanan|Katsu Ramen|27000.000000|Reguler Ramen|Utama
+Makanan|Tatsuage Ramen|27000.000000|Reguler Ramen|Utama
+Makanan|Calamary Ramen|30000.000000|Reguler Ramen|Utama
+Makanan|Tentakel Ramen|30000.000000|Reguler Ramen|Utama
+Makanan|Ebi Furai Ramen|32000.000000|Reguler Ramen|Utama
+Makanan|Baby Crab Ramen|27000.000000|Reguler Ramen|Utama
+Makanan|Sausage Ramen|27000.000000|Reguler Ramen|Utama
+Makanan|Bratwurst Ramen|31000.000000|Reguler Ramen|Utama
+Makanan|Toriball Ramen|30000.000000|Reguler Ramen|Utama
+Makanan|Gyuniku Ramen|26000.000000|Reguler Ramen|Utama
+Makanan|Niku Soboro Ramen|27000.000000|Reguler Ramen|Utama
+Makanan|Hiratake Ramen|25000.000000|Reguler Ramen|Utama
+Makanan|Kids Tory Drum Stick (R/U)|27000.000000|Kids|Ramen
+Makanan|Kids Tory Drum Stick (Udon)|33000.000000|Kids|Udon
+Makanan|Kids Tory Ball (R/U)|27000.000000|Kids|Ramen
+Makanan|Kids Tory Ball (Udon)|32000.000000|Kids|Udon
+Makanan|Kids Sausage (R/U)|25000.000000|Kids|Ramen
+Makanan|Kids Sausage (Udon)|29000.000000|Kids|Udon
+Makanan|Kids Corn n Cheese (R/U)|26000.000000|Kids|Ramen
+Makanan|Kids Corn n Cheese (Udon)|31000.000000|Kids|Udon
+Makanan|Kids Chicken Stick (R/U)|25000.000000|Kids|Ramen
+Makanan|Kids Chicken Stick (Udon)|30000.000000|Kids|Udon
+Makanan|Shimotsuki Ramen|39000.000000|Bigger Ramen|Double
+Makanan|Torichan Ramen|40000.000000|Bigger Ramen|Double
+Makanan|Kinoko Ramen|41000.000000|Bigger Ramen|Double
+Makanan|Underworld Ramen|43000.000000|Bigger Ramen|Double
+Makanan|Niku Zannai Ramen|42000.000000|Bigger Ramen|Double
+Makanan|Hyokaido Ramen|38000.000000|Bigger Ramen|Double
+Makanan|Nagi Ramen|41000.000000|Bigger Ramen|Double
+Makanan|Rastaman Ramen|45000.000000|Bigger Ramen|Dry
+Makanan|Katsu Yamien|32000.000000|Dry Ramen|Yamien
+Makanan|Niwatori Yamien|32000.000000|Dry Ramen|Yamien
+Makanan|Beef Yamien|32000.000000|Dry Ramen|Yamien
+Makanan|Teriyaki Yamien|32000.000000|Dry Ramen|Yamien
+Makanan|Nikusoboro Yamien|32000.000000|Dry Ramen|Yamien
+Makanan|Donburi Teriyaki|30000.000000|Donburi|Rice
+Makanan|Donburi Niwatori|32000.000000|Donburi|Rice
+Makanan|Donburi Beef|32000.000000|Donburi|Rice
+Makanan|Donburi Karage|30000.000000|Donburi|Rice
+Makanan|Oishii Rice – Ebi Furai|32000.000000|Rice|Oishii
+Makanan|Oishii Rice – Teriyaki|31000.000000|Rice|Oishii
+Makanan|Oishii Rice – Tentakel|33000.000000|Rice|Oishii
+Makanan|Curry Rice – Katsu|35000.000000|Curry|Rice
+Makanan|Curry Rice – Katsu Cheese|40000.000000|Curry|Rice
+Makanan|Wonton Chili Oil|22000.000000|Side|Chili Oil
+Makanan|Gyoza Chili Oil|22000.000000|Side|Chili Oil
+Makanan|Dumpling Chili Oil|22000.000000|Side|Chili Oil
+Makanan|Katsu Ori|25000.000000|Extra|Meal
+Makanan|Katsu Cheese|25000.000000|Extra|Meal
+Makanan|Tebasaki Banzai|20000.000000|Extra|Meal
+Makanan|Karage Mozuya|25000.000000|Extra|Meal
+Makanan|Aomori Tentakel|24000.000000|Extra|Meal
+Minuman|Mineral Water|8000.000000|Drink|Basic
+Minuman|Ice Tea|9000.000000|Drink|Tea
+Minuman|Ice Lemon Tea|14000.000000|Drink|Tea
+Minuman|Ice Lychee Tea|15000.000000|Drink|Tea
+Minuman|Ice Tea Peach|16000.000000|Drink|Tea
+Minuman|Ice Tea Mango|16000.000000|Drink|Tea
+Minuman|Big Ice Tea|25000.000000|Drink|Tea
+Minuman|Hot Tea|7000.000000|Drink|Tea
+Minuman|Hot Choco|17000.000000|Drink|Hot
+Minuman|Hot Matcha|20000.000000|Drink|Hot
+Minuman|Hot Lemon Tea|11000.000000|Drink|Hot
+Minuman|Berry’s Magic|17000.000000|Mocktail|Cold
+Minuman|Energizer Blast|17000.000000|Mocktail|Cold
+Minuman|Apple Twist|16000.000000|Mocktail|Cold
+Minuman|Tamarin Candy|18000.000000|Mocktail|Cold
+Minuman|Yuki Berry|16000.000000|Mocktail|Cold
+Minuman|Ian Rosella|20000.000000|Mocktail|Cold
+Minuman|Kyoto Pineapple|17000.000000|Mocktail|Cold
+Minuman|Choco Quente|17000.000000
+Minuman|Hazelnutt Il Sapore|18000.000000
+Minuman|Choco Hisio|20000.000000
+Minuman|Almond Crush|20000.000000
+Minuman|Oreo Ferrero Crunch|20000.000000
+Minuman|Pistachio Caramel Dream|21000.000000
+Minuman|Matcha Late|23000.000000
+Minuman|Mango Thai Swadikap|19000.000000
+Minuman|Konjac Cloud|20000.000000
+Minuman|Caramel Bananarilla|18000.000000
+Makanan|Hokkaido Pudding Choco|14000.000000|Dessert|Pudding
+Makanan|Hokkaido Pudding Original|14000.000000|Dessert|Pudding
+Makanan|Mitoboru Ice Cream|11000.000000|Dessert|Ice Cream

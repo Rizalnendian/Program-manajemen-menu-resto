@@ -1,0 +1,14 @@
+===== STRUK PESANAN =====
+Nama Pelanggan: Rizal Nendian Rezkita
+-------------------------
+Dori Ramen - Rp 18000,00
+Katsu Cheese - Rp 25000,00
+Kyoto Pineapple - Rp 17000,00
+Mitoboru Ice Cream - Rp 11000,00
+Tori Drum Ramen - Rp 29000,00
+Ice Lychee Tea - Rp 15000,00
+Tatsuage Ramen - Rp 27000,00
+Nikusoboro Yamien - Rp 32000,00
+-------------------------
+Total Bayar: Rp 174000,00
+=========================
