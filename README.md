@@ -51,6 +51,4 @@ Program-manajemen-menu-resto/
 └── .gitignore
 ```
 
-## 📌 Tentang Proyek
 
-Proyek ini dibuat untuk memenuhi tugas perkuliahan dan membantu memahami cara kerja algoritma sederhana dalam pemrograman, khususnya dalam menghitung komponen-komponen gaji karyawan.
